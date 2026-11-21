@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "lzR5gmehzMc",
+      "title": "ලතින් කංකාරිය | Lathin kankariya (pipunu thisarun ) cover | Lakshitha ",
+      "published": "2026-11-21T15:02:17+00:00",
+      "url": "https://www.youtube.com/watch?v=lzR5gmehzMc",
+      "thumbnail": "https://i.ytimg.com/vi/lzR5gmehzMc/hqdefault.jpg"
+    },
+    {
       "id": "DRRyK64nkrU",
       "title": "ඔයා නිසා මගේ සිනා |Oya Nisa cover | Kaweesha Neeraj @chandrasenahettiarachchi ",
       "published": "2026-10-25T13:31:22+00:00",
@@ -97,13 +104,6 @@
       "published": "2026-04-21T16:23:58+00:00",
       "url": "https://www.youtube.com/watch?v=ILHSuPxb2to",
       "thumbnail": "https://i.ytimg.com/vi/ILHSuPxb2to/hqdefault.jpg"
-    },
-    {
-      "id": "erlGDTJfQpE",
-      "title": "sobana | සොබනා cover version | Lakshitha Sanakalapa #ridma@weerawardhane",
-      "published": "2026-04-15T12:30:00+00:00",
-      "url": "https://www.youtube.com/watch?v=erlGDTJfQpE",
-      "thumbnail": "https://i.ytimg.com/vi/erlGDTJfQpE/hqdefault.jpg"
     }
   ]
 }
