@@ -1,6 +1,13 @@
 {
   "videos": [
     {
+      "id": "iRR64sBYB1o",
+      "title": "Anniversary Holiday Offer: Cover Song Recording at Studios SWARA for Rs. 2000! 🎙️",
+      "published": "2026-11-23T13:50:15+00:00",
+      "url": "https://www.youtube.com/watch?v=iRR64sBYB1o",
+      "thumbnail": "https://i.ytimg.com/vi/iRR64sBYB1o/hqdefault.jpg"
+    },
+    {
       "id": "lzR5gmehzMc",
       "title": "ලතින් කංකාරිය | Lathin kankariya (pipunu thisarun ) cover | Lakshitha  | Hashani Wasana song ",
       "published": "2026-11-21T15:02:17+00:00",
@@ -97,13 +104,6 @@
       "published": "2026-04-25T12:30:00+00:00",
       "url": "https://www.youtube.com/watch?v=J4HZZiDr5eg",
       "thumbnail": "https://i.ytimg.com/vi/J4HZZiDr5eg/hqdefault.jpg"
-    },
-    {
-      "id": "ILHSuPxb2to",
-      "title": "Sobana | සොබනා | Cover | Lakshitha Sankakpa",
-      "published": "2026-04-21T16:23:58+00:00",
-      "url": "https://www.youtube.com/watch?v=ILHSuPxb2to",
-      "thumbnail": "https://i.ytimg.com/vi/ILHSuPxb2to/hqdefault.jpg"
     }
   ]
 }
